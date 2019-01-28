@@ -30,7 +30,7 @@ videogamescoin>> sudo apt-get install build-essential cmake pkg-config libssl-de
 
 2. Now get the code from git repository and build
 
-videogamescoin>> git clone https://github.com/videogamescoin/VideoGamesCoinCore.git vgcnode
+videogamescoin>> git clone https://github.com/videogamescoin/videogamescoin.git vgcnode
 
 videogamescoin>> cd vgcnode
 
